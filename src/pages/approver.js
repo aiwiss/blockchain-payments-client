@@ -4,7 +4,7 @@ import Row from 'react-bootstrap/Row';
 export default function ApproverPage() {
   return (
     <>
-      <Row class='justify-content-start'>
+      <Row className='justify-content-start'>
         <Col>
           <h3 className='m-4'>Approver</h3>
         </Col>
